@@ -12,4 +12,4 @@ These are mainly combinations of Thorium with the following:
 - Berkilium - 7/10 power
 - Americium - 8/10 power
 Also the power depends on the amount of thorium. Low thorium, High [OTHER COMPOUND\] -> High energy. Half and Half -> Medium energy. High Thorium, Low [OTHER COMPOUND\] -> Low energy
-\(A full list of each fuel and its power is in [FUELS.md])
+\(A full list of each fuel and its power is in [FUELS.md](FUELS.md))
